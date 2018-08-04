@@ -1,0 +1,14 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.root {
+
+    -fx-font-size: 1.2em;
+    -fx-font-family: "Helvetica, Arial, sans-serif";
+
+}
+
+.list-cell {
+    -fx-text-fill: #292e34;
+    -fx-font-family: Arial;
+    -fx-pref-height: 30px;
+}
